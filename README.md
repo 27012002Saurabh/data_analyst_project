@@ -88,6 +88,13 @@ SET BANK = 'Northern Bank' WHERE BANK IS NULL AND YEAR(DATE) = 2019;
 UPDATE TRANSACTIONS
 SET BANK = 'Southern Bank' WHERE BANK IS NULL AND YEAR(DATE) = 2018;
 
+#### Ad-hoc Data Analysis:
+
+The analysis involves answering some of the important questions that the bank has identified. These questions include understanding the demographic profile of the bank's clients and how it varies across different districts, identifying the most common types of accounts and cards used by the clients, analyzing the bank's expenses and loan portfolio, and exploring ways to improve customer service and satisfaction levels. The analysis will involve data cleaning, exploratory data analysis, and predictive modeling to identify patterns and trends in the data.
+
+#### Project Benefits:
+
+This project is a must-have for individuals looking to showcase their data analytics skills in their resumes. It involves a real-world dataset and provides valuable insights into the financial operations of a bank. By completing this project, individuals will gain hands-on experience in data cleaning, exploratory data analysis, and predictive modeling techniques. The results of this analysis can be used by the Czechoslovakia Bank to improve their financial operations and introduce new financial products or services.
 
 
 
